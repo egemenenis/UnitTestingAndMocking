@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1157B0E-3283-43D7-9E43-A62443D5E652}|..\\ProductApp.Tests\\ProductApp.Tests.csproj|c:\\users\\egemen.ertas\\desktop\\productapp.tests\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1157B0E-3283-43D7-9E43-A62443D5E652}|..\\ProductApp.Tests\\ProductApp.Tests.csproj|c:\\users\\egemen.ertas\\desktop\\productapp.tests\\mocks\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1157B0E-3283-43D7-9E43-A62443D5E652}|..\\ProductApp.Tests\\ProductApp.Tests.csproj|c:\\users\\egemen.ertas\\desktop\\productapp.tests\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1157B0E-3283-43D7-9E43-A62443D5E652}|..\\ProductApp.Tests\\ProductApp.Tests.csproj|c:\\users\\egemen.ertas\\desktop\\productapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|c:\\users\\egemen.ertas\\desktop\\unittestingandmocking\\unittestingandmocking\\unittestingandmocking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBFF9C6A-57E6-4CDD-8907-5C5AD23550BE}|UnitTestingAndMocking\\UnitTestingAndMocking.csproj|solutionrelative:unittestingandmocking\\unittestingandmocking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UnitTestingAndMocking\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:08:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UnitTestingAndMocking\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:07:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UnitTestingAndMocking\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:07:13.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\appsettings.json",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\appsettings.json",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\appsettings.json",
+              "RelativeToolTip": "UnitTestingAndMocking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T08:06:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRespository.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Mocks\\ProductRespository.cs",
+              "RelativeDocumentMoniker": "..\\ProductApp.Tests\\Mocks\\ProductRespository.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Mocks\\ProductRespository.cs",
+              "RelativeToolTip": "..\\ProductApp.Tests\\Mocks\\ProductRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:21:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApp.Tests\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\ProductApp.Tests\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:20:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductApp.Tests\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\ProductApp.Tests\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:19:00.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ProductApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ProductApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ProductApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:16:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:11:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:10:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Program.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Program.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:11:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "UnitTestingAndMocking\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:11:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Services\\ProductService.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:30.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTestingAndMocking",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\UnitTestingAndMocking.csproj",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\UnitTestingAndMocking.csproj",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\UnitTestingAndMocking.csproj",
+              "RelativeToolTip": "UnitTestingAndMocking\\UnitTestingAndMocking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T07:32:04.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Services\\IProductService.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:09.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UnitTestingAndMocking\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\UnitTestingAndMocking\\UnitTestingAndMocking\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UnitTestingAndMocking\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:08:18.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
